@@ -1,6 +1,6 @@
-set "sourcef=F:\bat scripts\mustest"
-set "dest=F:\bat scripts\wawtest"
-set "archive=F:\bat scripts\archive"
+set "sourcef=%CD%\mustest"
+set "dest=%CD%\wawtest"
+set "archive=%CD%\archive"
 
 mkdir "%sourcef%"
 mkdir "%dest%"
